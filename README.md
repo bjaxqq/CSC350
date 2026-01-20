@@ -1,4 +1,4 @@
-# CSC325
+# CSC350
 
 ## Course Description
 
